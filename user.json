@@ -1,0 +1,7 @@
+{
+  "name": "Adi",
+  "age": 22,
+  "job": "Backend Developer",
+  "skills": ["Python", "JavaScript", "Node.js"],
+  "isDeveloper": true
+}
